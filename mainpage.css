@@ -1,0 +1,67 @@
+body{
+    background-color:
+    rgb(250, 231, 201);
+}
+header{
+    background-color: rgb(225, 199, 143);
+    text-align: right;
+    font-size:30px;
+    position: fixed;
+    width: 100%;
+}
+#hi{
+    color: rgb(112, 98, 51);
+    font-family: 'Recursive', sans-serif;
+ margin-right:300px;
+}
+#h{
+    background-image: url("https://th.bing.com/th/id/R.b81627288ca568baa60e7e19021c927b?rik=jNPoug1tM7ZVhQ&riu=http%3a%2f%2fww1.prweb.com%2fprfiles%2f2013%2f10%2f15%2f11231637%2fwoodcap.jpg&ehk=0ZAREYW%2fS2K4tU7YBf5jEi8lCNBze%2fSxhbhB4qcWopg%3d&risl=&pid=ImgRaw&r=0");
+    width: auto;
+    height:500px;
+    background-size:1500px 750px;
+    background-repeat: no-repeat;
+}
+#a{
+    color: white;
+    background-image: linear-gradient(to right, red,green);
+    font-family: 'Recursive', sans-serif;
+    height: 60px;
+    text-align: center;
+    font-size:45px;
+}
+#santa{
+font-size:30px;
+background-color: red;
+color:whitesmoke;
+}
+h3{
+    font-size:40px;
+}
+#cara{
+    font-size:30px;
+    background-color: green;
+    color:whitesmoke;
+    }
+    #sign{
+        font-size:30px;
+        text-align: center;
+        background-color:rgb(225, 199, 143);
+        }
+    #u{
+        color:red;
+    }
+    footer{
+        background-color:grey;
+        font-size:20px;
+        text-align: center;
+        color:white;
+        border:3px solid black;
+    }
+    a{
+        text-decoration: none;
+        color:rgb(112, 98, 51);
+    }
+    #lo{
+        margin-left:65px;
+        margin-right:65px;
+    }

@@ -1,0 +1,116 @@
+body{
+    background-color:
+    rgb(250, 231, 201)
+}
+header{
+    background-color: rgb(225, 199, 143);
+    text-align: right;
+    font-size:30px;
+    position: fixed;
+    width: 100%;
+}
+#hi{
+    color: rgb(112, 98, 51);
+    font-family: 'Recursive', sans-serif;
+ margin-right:300px;
+}
+h1{
+    font-size:70px;
+    text-align:center;
+    color:rgb(176, 146, 106);
+}
+#ok{
+    position: absolute;
+    left: 375px;
+    font-size:45px;
+    color:rgb(112, 98, 51);
+}
+img{
+    width:200px;
+    float:left;
+    border-radius:100px;
+}
+#icon2{
+    width:40px;
+    float:right;
+}
+#icon{
+    width:40px;
+    float:left;
+}
+#hi1{
+    color:red;
+    font-size:20px;
+    font-family: 'Recursive', sans-serif;
+}
+#hi2{
+color: black;
+font-size:20px;
+font-family: 'Recursive', sans-serif;
+}
+#prod{
+position:absolute;
+top:360px;
+right:950px;
+}
+#prog{
+    position: absolute;
+    top:360px;
+    right:550px;
+}
+#ko{
+    position: absolute;
+    top:620px;
+    left: 375px;
+    font-size:45px;
+    color:rgb(112, 98, 51);
+}
+#prog1{
+    position: absolute;
+    top:760px;
+    right:550px;
+}
+#prod1{
+    position:absolute;
+    top:760px;
+    right:950px;
+    
+    }
+ #hi3{
+        color: black;
+        font-size:20px;
+        font-family: 'Recursive', sans-serif;
+        }
+  #ko2{
+position: absolute;
+ top:1020px;
+ left: 375px;
+font-size:45px;
+color:rgb(112, 98, 51);
+}
+#prod2{
+    position:absolute;
+    top: 1160px;
+    right:950px;
+    
+    }
+    #prog2{
+        position: absolute;
+        top:1160px;
+        right:550px;
+    }
+    footer{
+        background-color:grey;
+        font-size:20px;
+        text-align: center;
+        color:white;
+        border:3px solid black;
+    }
+    a{
+        text-decoration: none;
+        color:rgb(112, 98, 51);
+    }
+    #lo{
+        margin-left:65px;
+        margin-right:65px;
+    }
